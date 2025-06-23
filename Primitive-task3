@@ -1,0 +1,26 @@
+public class PrimDataTypes {
+    public static void main(String[] args) {
+
+        byte b = 127;
+
+
+        short myShort = 1234;
+
+        int myInt = 5000;
+
+        long myLong = 12323;
+
+        float myFloat = 6.3f;
+
+        double myDouble = 45.213434;
+
+        boolean myBoolean = true;
+        boolean myBoolean2 = false;
+        boolean moreThan1000 = (myInt > 1000);
+
+        char myChar = 'W';
+
+        System.out.println();
+
+    }
+}
